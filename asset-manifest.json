@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addtocartreact/static/css/main.8293f059.css",
+    "main.js": "/addtocartreact/static/js/main.3ed8d905.js",
+    "index.html": "/addtocartreact/index.html",
+    "main.8293f059.css.map": "/addtocartreact/static/css/main.8293f059.css.map",
+    "main.3ed8d905.js.map": "/addtocartreact/static/js/main.3ed8d905.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8293f059.css",
+    "static/js/main.3ed8d905.js"
+  ]
+}
